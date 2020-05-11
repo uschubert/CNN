@@ -1,4 +1,4 @@
-# CNN_Jet_Tagger
+# CNN Jet Tagger
 In this project we are building jet tagging models, which distinguish between signal and background events.
 The main input is the pt-distribution in the detector of the jet, which is represented as a heat map. This heat map is fed to a convolutional
 neural network. In addition we are giving the neural network a selection of different expert variables, whose impact on the model prediction we 
